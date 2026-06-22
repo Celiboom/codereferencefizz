@@ -311,6 +311,129 @@ button,
   font-weight: 800;
 }
 
+.validation-badge {
+  display: inline-block;
+  margin-top: 14px;
+  padding: 5px 12px;
+  background: rgba(44, 122, 72, 0.1);
+  color: var(--green-dark);
+  border: 1px solid rgba(44, 122, 72, 0.25);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.reviews-section {
+  padding: clamp(52px, 8vw, 92px) clamp(18px, 5vw, 72px);
+  border-top: 1px solid rgba(223, 229, 222, 0.8);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.reviews-section .section-heading {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.reviews-carousel {
+  position: relative;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.reviews-track {
+  position: relative;
+  min-height: 240px;
+}
+
+.review-card {
+  position: absolute;
+  inset: 0;
+  background: var(--surface);
+  padding: 28px;
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  opacity: 0;
+  transform: translateX(16px);
+  transition: opacity 0.45s ease, transform 0.45s ease;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.review-card.is-active {
+  opacity: 1;
+  transform: translateX(0);
+  pointer-events: auto;
+}
+
+.review-stars {
+  color: #f5b800;
+  font-size: 1.05rem;
+  letter-spacing: 3px;
+}
+
+.review-text {
+  font-size: 1rem;
+  line-height: 1.55;
+  color: #2a3633;
+  margin: 0;
+  flex: 1;
+}
+
+.review-author {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(223, 229, 222, 0.8);
+}
+
+.review-author strong {
+  font-weight: 800;
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+
+.review-author span {
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.reviews-dots {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  margin-top: 22px;
+}
+
+.reviews-dots button {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(25, 87, 51, 0.25);
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.reviews-dots button.is-active {
+  background: var(--green);
+  width: 26px;
+  border-radius: 4px;
+}
+
+.reviews-dots button:hover {
+  background: rgba(25, 87, 51, 0.5);
+}
+
+.reviews-dots button.is-active:hover {
+  background: var(--green-dark);
+}
+
 .hero-note p,
 .site-footer p {
   margin-bottom: 0;
