@@ -439,30 +439,43 @@ button,
 
 .reviews-dots {
   display: flex;
-  gap: 6px;
+  gap: 8px;
   justify-content: center;
-  margin-top: 22px;
+  align-items: center;
+  margin-top: 28px;
 }
 
 .reviews-dots button {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: rgba(25, 87, 51, 0.25);
-  border: none;
+  display: block;
+  width: 28px;
+  height: 4px;
   padding: 0;
+  margin: 0;
+  border: none;
+  background: rgba(25, 87, 51, 0.22);
+  border-radius: 999px;
   cursor: pointer;
-  transition: all 0.25s ease;
-}
-
-.reviews-dots button.is-active {
-  background: var(--green);
-  width: 26px;
-  border-radius: 4px;
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  font-size: 0;
+  line-height: 0;
+  outline: none;
 }
 
 .reviews-dots button:hover {
-  background: rgba(25, 87, 51, 0.5);
+  background: rgba(25, 87, 51, 0.45);
+}
+
+.reviews-dots button:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 4px;
+}
+
+.reviews-dots button.is-active {
+  width: 44px;
+  background: var(--green);
 }
 
 .reviews-dots button.is-active:hover {

@@ -75,18 +75,6 @@
           return requestedLanguage;
         }
 
-        const browserCultures = navigator.languages && navigator.languages.length
-          ? navigator.languages
-          : [navigator.language];
-
-        for (let index = 0; index < browserCultures.length; index += 1) {
-          const browserLanguage = normalizeCulture(browserCultures[index]);
-
-          if (browserLanguage) {
-            return browserLanguage;
-          }
-        }
-
         return "fr";
       }
 
