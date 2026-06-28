@@ -325,6 +325,41 @@ button,
   text-transform: uppercase;
 }
 
+.promo-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+  padding: 6px 18px 6px 6px;
+  background: linear-gradient(135deg, #ff9248 0%, #e8694a 100%);
+  color: #ffffff;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  box-shadow: 0 10px 28px rgba(232, 105, 74, 0.35);
+  animation: promo-pulse 2.4s ease-in-out infinite;
+}
+
+.promo-pill-badge {
+  padding: 5px 12px;
+  background: rgba(255, 255, 255, 0.28);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.promo-pill strong {
+  font-size: 1.08rem;
+  font-weight: 900;
+}
+
+@keyframes promo-pulse {
+  0%, 100% { transform: scale(1); box-shadow: 0 10px 28px rgba(232, 105, 74, 0.35); }
+  50% { transform: scale(1.03); box-shadow: 0 14px 36px rgba(232, 105, 74, 0.45); }
+}
+
 .reviews-section {
   padding: clamp(52px, 8vw, 92px) clamp(18px, 5vw, 72px);
   border-top: 1px solid rgba(223, 229, 222, 0.8);

@@ -15,7 +15,7 @@ Le site est conçu pour fonctionner sans serveur: il suffit d'héberger les fich
 ## Hypotheses de depart
 
 - Le code de référence Fizz configuré dans le site est `OYYKR`.
-- La prime Fizz affichée actuellement est de 25$ pour le parrain et 25$ pour la personne invitée, mais Fizz indique que le montant peut changer sans préavis.
+- La prime Fizz affichée actuellement est de 40$ pour le parrain et 40$ pour la personne invitée, mais Fizz indique que le montant peut changer sans préavis.
 - Le code doit être entré pendant l'activation du premier forfait Fizz. Il ne peut généralement pas être ajouté rétroactivement.
 - Le bonus est appliqué après que le nouveau membre a cumulé deux mois de service, selon les conditions Fizz.
 

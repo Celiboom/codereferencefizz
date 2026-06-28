@@ -4,7 +4,7 @@ Objectif: atteindre environ 1 conversion par jour avec un cout d'acquisition bas
 
 ## Economie cible
 
-Si la prime est de 25$, le cout maximal par conversion doit rester nettement sous 25$ pour que le projet soit rentable. Une cible prudente:
+Si la prime est de 40$, le cout maximal par conversion doit rester nettement sous 40$ pour que le projet soit rentable. Une cible prudente:
 
 - CPA ideal: 3$ a 8$.
 - CPA acceptable en test: 8$ a 15$.
@@ -59,7 +59,7 @@ Structure de test:
 
 Exemple d'annonce sobre:
 
-Titre: `Code de reference Fizz 25$`
+Titre: `Code de reference Fizz 40$`
 
 Description: `Copiez un code de reference Fizz avant d'activer votre premier forfait. Site independant. Conditions Fizz applicables.`
 

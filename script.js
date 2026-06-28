@@ -129,15 +129,7 @@ codeElements.forEach((element) => {
 
 fizzLinks.forEach((link) => {
   const baseUrl = link.dataset.fizzLink || link.href;
-  const eventName = link.dataset.trackEvent || "click_fizz";
-
   link.href = buildFizzUrl(baseUrl);
-  link.addEventListener("click", () => {
-    trackEvent(eventName, {
-      href: link.href,
-      label: link.textContent.trim()
-    });
-  });
 });
 
 copyButtons.forEach((button) => {

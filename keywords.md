@@ -7,8 +7,8 @@
 - code promo fizz
 - rabais fizz
 - prime reference fizz
-- fizz 25$
-- code fizz 25
+- fizz 40$
+- code fizz 40
 
 ## Intentions abonnement mobile
 
@@ -38,7 +38,7 @@
 
 ## Titres SEO possibles
 
-- Code de reference Fizz 25$: comment l'utiliser
+- Code de reference Fizz 40$: comment l'utiliser
 - Code promo Fizz ou code de reference: quoi entrer a l'inscription
 - Fizz mobile Quebec: utiliser un code de reference au bon moment
 - Fizz Internet residentiel: guide rapide avant l'abonnement
