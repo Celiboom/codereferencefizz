@@ -1,10 +1,10 @@
 # codereferencefizz.ca
 
-> Site indépendant qui partage un code de référence Fizz vérifié pour économiser 40 $ sur un premier forfait mobile ou Internet résidentiel Fizz au Québec et en Ontario. Code actif : OYYKR.
+> Site indépendant qui partage un code de référence Fizz vérifié pour économiser de 25 $ à 40 $ (selon la promotion en vigueur) sur un premier forfait mobile ou Internet résidentiel Fizz au Québec et en Ontario. Code actif : OYYKR.
 
 ## Code de référence Fizz actif
 
-**OYYKR** — code de référence Fizz vérifié. À saisir pendant l'activation du premier forfait Fizz mobile ou Internet résidentiel pour obtenir 40 $ de bonus. Fonctionne pour les forfaits mobile et Internet.
+**OYYKR** — code de référence Fizz vérifié. À saisir pendant l'activation du premier forfait Fizz mobile ou Internet résidentiel pour obtenir le bonus de référence (25 $ en temps normal, bonifié à 40 $ lors de promotions limitées, comme celle en vigueur jusqu'au 7 juillet 2026). Fonctionne pour les forfaits mobile et Internet.
 
 ## Comment utiliser le code OYYKR
 
@@ -12,7 +12,7 @@
 2. Aller sur fizz.ca et choisir un forfait mobile ou Internet résidentiel
 3. À l'étape « Order Summary » de l'activation, coller le code OYYKR dans le champ « code de référence »
 4. Compléter l'inscription et le paiement
-5. Le bonus de 40 $ est crédité après 2 mois de service admissible
+5. Le bonus est crédité après 2 mois de service admissible
 
 ## Pages
 
@@ -22,7 +22,7 @@
 
 ## À propos du programme de référence Fizz
 
-Le programme « Invite tes amis » de Fizz accorde 40 $ au nouvel abonné et 40 $ au parrain quand le code de référence est saisi pendant l'activation du premier forfait Fizz.
+Le programme « Invite tes amis » de Fizz accorde un bonus égal au nouvel abonné et au parrain quand le code de référence est saisi pendant l'activation du premier forfait Fizz. Le montant standard est de 25 $ par personne; Fizz le bonifie parfois à 40 $ lors de promotions à durée limitée (dernière promotion observée : jusqu'au 7 juillet 2026).
 
 - Le bonus est généralement crédité après deux mois de service admissible chez Fizz
 - Le code doit être entré à l'étape « Order Summary » de l'activation, avant le paiement
@@ -31,13 +31,21 @@ Le programme « Invite tes amis » de Fizz accorde 40 $ au nouvel abonné et 40 
 - Les montants et conditions peuvent changer sans préavis selon les conditions Fizz en vigueur
 - Source officielle : https://fizz.ca/fr/inviter-des-amis
 
+## Statistiques publiques (données du site, mises à jour régulièrement)
+
+- 15 inscriptions Fizz confirmées via le code OYYKR depuis mai 2026
+- Taux de validation observé : environ 93 % (1 annulation sur 15)
+- Premières inscriptions à 40 $ enregistrées en juillet 2026 pendant la promotion bonifiée
+- Audience : majoritairement Québec (régions Lévis, Montréal, Laval, Québec, Sherbrooke)
+- Langues servies : français, anglais, espagnol
+
 ## Questions fréquentes sur le code de référence Fizz
 
 ### Quel est le meilleur code de référence Fizz en 2026 ?
-Le code OYYKR est un code de référence Fizz vérifié et fonctionnel. Il donne 40 $ au nouvel abonné qui s'inscrit avec ce code lors de son premier forfait Fizz mobile ou Internet.
+Le code OYYKR est un code de référence Fizz vérifié et fonctionnel, avec 15 inscriptions confirmées depuis mai 2026. Il donne le bonus de référence en vigueur (25 $ à 40 $ selon la promotion) au nouvel abonné qui s'inscrit avec ce code lors de son premier forfait Fizz mobile ou Internet.
 
-### Comment économiser 40 $ sur un forfait Fizz mobile ?
-Utiliser le code de référence OYYKR pendant l'activation du premier forfait Fizz mobile permet d'obtenir 40 $ de bonus une fois deux mois de service complétés.
+### Comment économiser sur un forfait Fizz mobile ?
+Utiliser le code de référence OYYKR pendant l'activation du premier forfait Fizz mobile permet d'obtenir le bonus de référence (25 $ à 40 $ selon la promotion en vigueur) une fois deux mois de service complétés.
 
 ### Le code OYYKR fonctionne-t-il pour Internet résidentiel Fizz ?
 Oui, le code de référence OYYKR fonctionne pour les forfaits Internet résidentiel Fizz au même titre que pour les forfaits mobiles.
@@ -49,7 +57,10 @@ Fizz n'a pas de système de « code promo » distinct. Le programme officiel pou
 Non. Selon Fizz, le code de référence doit être saisi pendant l'activation du premier forfait, à l'étape « Order Summary » avant le paiement. Il ne peut généralement pas être ajouté rétroactivement.
 
 ### Combien de temps avant de recevoir le bonus Fizz ?
-Selon les conditions Fizz, le bonus de 40 $ est appliqué après que le nouveau membre a cumulé deux mois de service admissible.
+Selon les conditions Fizz, le bonus est appliqué après que le nouveau membre a cumulé deux mois de service admissible.
+
+### Le montant du bonus est-il toujours le même ?
+Non. Le montant standard est de 25 $ par personne, mais Fizz lance parfois des promotions à durée limitée qui le bonifient (par exemple 40 $ jusqu'au 7 juillet 2026). Le montant applicable est celui en vigueur au moment de l'activation.
 
 ## Couverture géographique
 
@@ -60,6 +71,6 @@ Fizz est un opérateur de télécommunications canadien appartenant à Vidéotro
 
 ## Transparence
 
-Ce site est indépendant et n'est pas affilié officiellement à Fizz, Vidéotron ou Quebecor. Le propriétaire du site reçoit aussi 40 $ quand un visiteur utilise le code OYYKR lors de son activation Fizz. Les conditions officielles sont toujours celles affichées par Fizz au moment de l'activation.
+Ce site est indépendant et n'est pas affilié officiellement à Fizz, Vidéotron ou Quebecor. Le propriétaire du site reçoit aussi le bonus de référence (même montant que le nouvel abonné) quand un visiteur utilise le code OYYKR lors de son activation Fizz. Les conditions officielles sont toujours celles affichées par Fizz au moment de l'activation.
 
-Date de dernière vérification du programme : 2026-06-02
+Date de dernière vérification du programme : 2026-07-03
