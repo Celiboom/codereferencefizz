@@ -172,43 +172,6 @@ validationBadgeElements.forEach((element) => {
     .replace("{year}", monthYear.year);
 });
 
-const PROMO_DEADLINE = new Date(2026, 6, 7, 23, 59, 59);
-const PROMO_ACTIVE = new Date() <= PROMO_DEADLINE;
-const BONUS_AMOUNT = PROMO_ACTIVE ? 40 : 25;
-
-const bonusAmountElements = document.querySelectorAll("[data-bonus-amount]");
-bonusAmountElements.forEach((element) => {
-  const format = element.dataset.format || "fr";
-  element.textContent = format === "en" ? "$" + BONUS_AMOUNT : BONUS_AMOUNT + " $";
-});
-
-const promoPillElements = document.querySelectorAll(".promo-pill");
-promoPillElements.forEach((element) => {
-  if (!PROMO_ACTIVE) {
-    element.style.display = "none";
-  }
-});
-
-const promoCountdownElements = document.querySelectorAll("[data-promo-countdown]");
-promoCountdownElements.forEach((element) => {
-  const now = new Date();
-  const diffMs = PROMO_DEADLINE.getTime() - now.getTime();
-  const diffDays = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
-
-  const locale = element.dataset.locale || document.documentElement.lang.slice(0, 2).toLowerCase();
-
-  if (PROMO_ACTIVE && diffDays > 0) {
-    const templates = {
-      fr: diffDays === 1 ? "Plus qu'un jour !" : `Plus que ${diffDays} jours !`,
-      en: diffDays === 1 ? "Only 1 day left!" : `Only ${diffDays} days left!`,
-      es: diffDays === 1 ? "¡Solo 1 día!" : `¡Solo ${diffDays} días!`
-    };
-    element.textContent = templates[locale] || templates.fr;
-  } else {
-    element.style.display = "none";
-  }
-});
-
 reviewsCarousels.forEach((carousel) => {
   const cards = carousel.querySelectorAll(".review-card");
   const dotsContainer = carousel.querySelector(".reviews-dots");
