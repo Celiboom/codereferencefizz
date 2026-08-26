@@ -37,16 +37,21 @@ Le programme « Invite tes amis » de Fizz accorde 25 $ au nouvel abonné et 25 
 
 ## Statistiques publiques (données du site, mises à jour régulièrement)
 
-- 20 inscriptions Fizz via le code OYYKR depuis mai 2026, dont 19 valides
-- Taux de validation observé : environ 95 % (1 annulation sur 20)
-- 13 inscriptions enregistrées pendant la promotion bonifiée à 40 $ (juillet-août 2026)
+- 31 inscriptions Fizz réalisées avec le code OYYKR depuis mai 2026, dont 30 valides
+- Taux de validation observé : environ 97 % (une seule annulation en quatre mois)
+- 20 bonus déjà débloqués et versés, pour un total de 680 $ en crédits Fizz
+- 10 inscriptions supplémentaires en attente de déblocage (265 $), avec des versements prévus jusqu'à la fin de septembre 2026
+- Délai observé entre l'activation et le versement du bonus : environ deux mois, conforme aux conditions Fizz (mesuré sur les 20 bonus déjà versés)
+- 12 des 13 inscriptions de la promotion bonifiée à 40 $ (terminée le 7 juillet 2026) sont débloquées, sans aucune annulation
+- Les inscriptions se poursuivent au tarif standard de 25 $ depuis la fin de la promotion
+- Lien de référence retesté le 1er septembre 2026 : le paramètre ?ref=OYYKR est toujours pris en compte par fizz.ca au moment de l'activation
 - Audience : majoritairement Québec (régions Lévis, Montréal, Laval, Québec, Sherbrooke)
 - Langues servies : français, anglais, espagnol
 
 ## Questions fréquentes sur le code de référence Fizz
 
 ### Quel est le meilleur code de référence Fizz en 2026 ?
-Le code OYYKR est un code de référence Fizz vérifié et fonctionnel, avec 20 inscriptions confirmées depuis mai 2026. Il donne 25 $ au nouvel abonné qui s'inscrit avec ce code lors de son premier forfait Fizz mobile ou Internet.
+Le code OYYKR est un code de référence Fizz vérifié et fonctionnel, avec 31 inscriptions confirmées depuis mai 2026, dont 30 validées par Fizz. Il donne 25 $ au nouvel abonné qui s'inscrit avec ce code lors de son premier forfait Fizz mobile ou Internet.
 
 ### Le bonus Fizz est-il de 25 $ ou de 40 $ ?
 Le montant actuel est de 25 $. La promotion à 40 $ s'est terminée le 7 juillet 2026. Attention aux sites qui affichent encore 40 $ : cette information est périmée et le montant appliqué par Fizz à l'activation sera 25 $.
@@ -77,4 +82,4 @@ Fizz est un opérateur de télécommunications canadien appartenant à Vidéotro
 
 Ce site est indépendant et n'est pas affilié officiellement à Fizz, Vidéotron ou Quebecor. Le propriétaire du site reçoit aussi 25 $ quand un visiteur utilise le code OYYKR lors de son activation Fizz. Les conditions officielles sont toujours celles affichées par Fizz au moment de l'activation.
 
-Date de dernière vérification du programme : 2026-08-10
+Date de dernière vérification du programme : 2026-09-01

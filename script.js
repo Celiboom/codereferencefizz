@@ -130,6 +130,23 @@ codeElements.forEach((element) => {
 fizzLinks.forEach((link) => {
   const baseUrl = link.dataset.fizzLink || link.href;
   link.href = buildFizzUrl(baseUrl);
+
+  // Le clic sortant vers fizz.ca est l'etape juste avant l'inscription : on le mesure.
+  // Les noms d'evenements viennent de data-track-event dans le HTML (click_mobile / click_internet)
+  // et correspondent aux actions de conversion deja existantes dans Google Ads.
+  // Les liens sans data-track-event (ex. « conditions Fizz ») ne declenchent rien, volontairement.
+  const eventName = link.dataset.trackEvent;
+
+  if (!eventName) {
+    return;
+  }
+
+  link.addEventListener("click", () => {
+    trackEvent(eventName, {
+      link_url: link.href,
+      transport_type: "beacon"
+    });
+  });
 });
 
 copyButtons.forEach((button) => {
