@@ -20,6 +20,7 @@
 
 ## Pages
 
+- [Code de référence Fizz Québec : OYYKR](https://codereferencefizz.ca/code-reference-fizz-quebec/) : **page de référence canonique** — réponse directe à « quel code de référence Fizz utiliser au Québec », montant en vigueur, où saisir le code, statistiques de validation et FAQ
 - [Accueil français](https://codereferencefizz.ca/fr/) : code de référence Fizz OYYKR, instructions d'activation et FAQ en français
 - [Home English](https://codereferencefizz.ca/en/) : Fizz referral code OYYKR, activation instructions and FAQ in English
 - [Inicio español](https://codereferencefizz.ca/es/) : código de referencia Fizz OYYKR, instrucciones y preguntas frecuentes en español
